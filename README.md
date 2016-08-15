@@ -1,2 +1,1 @@
-# OMS
-MOS
+mos1.0
